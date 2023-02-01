@@ -69,6 +69,10 @@ section{
     font-size: 3.5vw;
 }
 
+section > p{
+    padding: 2em;
+}
+
 section.normal{
     background-color: white;
     color: black;
@@ -77,6 +81,16 @@ section.normal{
 section.imagem{
     background-color: rgb(73, 72, 72);
     color: white;
+}
+
+section#img01{
+    background-image: url(../pacote-d012/imagens/background001.jpg);
+
+}
+
+section#img02{
+
+
 }
 
 
